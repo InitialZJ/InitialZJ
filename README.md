@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying Fujian Normal University
+- 🔭 I’m currently studying in Fujian Normal University
+- ✈ I am about to enter Central South University for a postgraduate degree
 - 🌱 I’m currently learning about C++, ROS, matlab and so on
 
 ![Jeffrey0418's github stats](https://github-readme-stats.vercel.app/api/?username=Jeffrey0418)
