@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 🔭 I’m currently studying Fujian Normal University
 🌱 I’m currently learning about 
 
-![Jeffrey0418's github stats](https://github-readme-stats.vercel.app/api/?username=Jeffrey0418&show_icons=true)
+![Jeffrey0418's github stats](https://github-readme-stats.vercel.app/api/?username=Jeffrey0418)
