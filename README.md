@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently studying in Central South University
-- 🌱 I’m currently learning about C++, ROS, matlab and so on
+- 🌱 I’m currently learning about C++, ROS, Matlab and so on
 
 ![Jeffrey0418's github stats](https://github-readme-stats.vercel.app/api/?username=Jeffrey0418)
