@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on UAV vision
 - 🌱 I’m currently learning about C++, ROS, Matlab and so on
 
-![Jeffrey0418's github stats](https://github-readme-stats.vercel.app/api/?username=Jeffrey0418)
+![Jeffrey0418's github stats](https://github-readme-stats.vercel.app/api/?username=InitialZJ)
